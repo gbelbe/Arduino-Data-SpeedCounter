@@ -14,4 +14,3 @@
 * Modify the file to specify the IP address of your site, the port (by default 80) and the webpage from where to parse the number.
 
 * Upload to Arduino
-* 
